@@ -1,6 +1,6 @@
 # ANEVA-h
 
-A toolkit for quantifying genetic variation in gene dosage from allelic specific expression (ASE) data. ANEVA-h implements the ANEVA method for haplotype-based AE data generated from phASER. For more details about ANEVA, please see Mohammadi P et al (2019) doi:10.1126/science.aay0256
+A toolkit for quantifying genetic variation in gene dosage from allelic specific expression (ASE) data. ANEVA-h implements the ANEVA method for haplotype-based ASE data generated from phASER. For more details about ANEVA, please see Mohammadi P et al (2019) doi:10.1126/science.aay0256
 
 ### Installation Instructions
 ***
